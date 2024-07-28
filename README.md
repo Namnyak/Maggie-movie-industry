@@ -35,8 +35,13 @@ The Numbers (TN)
 The TN dataset provides box office information for 5,782 movies. The key data points include the release date, production budget, and worldwide gross revenue.
 
 ## Data Visualization
+### Total Worldwide Gross by Studio
 
+![png](images/1.png)
 
+### Top 10 Highest-Grossing Movies Worldwide by Studio
+
+![png](images/2.png)
 
 ## Conclusion
 Focus on High-Grossing Genres and Studios:
