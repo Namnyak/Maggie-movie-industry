@@ -43,6 +43,18 @@ The TN dataset provides box office information for 5,782 movies. The key data po
 
 ![png](images/2.png)
 
+### Domestic and Foreign Percentage of Worldwide Gross for Top 10 Movies
+![png](images/4.png)
+
+### Average Rating by Genre'
+![png](images/5.png)
+
+### Distribution of Average Ratings
+![png](images/7.png)
+
+### Production Budget vs. Worldwide Gross Revenue
+![png](images/9.png)
+
 ## Conclusion
 Focus on High-Grossing Genres and Studios:
 Prioritize genres and movie types that have historically performed well in terms of worldwide gross revenue. According to our findings, studios like BV (Buena Vista) and Universal (Uni) have produced some of the highest-grossing movies, including 'Avengers: Infinity War,' 'Jurassic World,' and 'Furious 7.'
